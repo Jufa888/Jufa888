@@ -1,5 +1,5 @@
 ## Buenas soy Juanfran
-📕 Aprendiendo constantemente
+📕 Aprendiendo constantemente </br>
 📩 Juanfranmargo8@gmail.com
 ## Competencias
--Java-Python-HTML-CSS-MySql
+*Java*Python*HTML*CSS*MySql
