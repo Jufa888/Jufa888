@@ -2,8 +2,10 @@
 📕 Aprendiendo constantemente </br>
 📩 Juanfranmargo8@gmail.com
 ## Competencias
-🟧 *Java*</br>
-🟦 *Python*</br>
-🟥 *HTML*</br>
-🟪 *CSS*</br>
-🟩 *MySql*
+  <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+     ![Static Badge](https://img.shields.io/badge/C%23-green?logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3EConstruct%203%3C%2Ftitle%3E%3Cpath%20d%3D%22M12.392%200c-6.752%200-12%205.498-12%2012%200%206.574%205.313%2012%2012%2012%204.283%200%208.087-2.254%2010.217-5.704a.571.571%200%200%200-.2-.795l-5.55-3.204a.572.572%200%200%200-.76.177%204.453%204.453%200%200%201-3.707%201.983c-2.458%200-4.458-2-4.458-4.457%200-2.458%202-4.457%204.458-4.457%201.491%200%202.877.741%203.707%201.983a.571.571%200%200%200%20.76.177l5.55-3.204a.571.571%200%200%200%20.2-.795A11.998%2011.998%200%200%200%2012.392%200zm0%203.527c3.048%200%205.72%201.61%207.213%204.026l-2.99%201.726c-.037.021-.085.013-.108-.026a4.942%204.942%200%200%200-4.115-2.2A4.953%204.953%200%200%200%207.445%2012c0%20.9.241%201.745.663%202.473l-2.342%201.353a.327.327%200%200%200-.112.458%207.977%207.977%200%200%200%206.738%203.7%207.978%207.978%200%200%200%206.789-3.781l2.983%201.722a.08.08%200%200%201%20.028.113%2011.447%2011.447%200%200%201-9.8%205.472C6.045%2023.51.882%2018.346.882%2012c0-2.095.562-4.06%201.544-5.754l2.35%201.356c.15.088.345.04.439-.11a8.467%208.467%200%200%201%207.177-3.966zM22.965%208.95a.666.666%200%200%200-.336.088l-4.149%202.395a.654.654%200%200%200%200%201.131l4.149%202.396c.434.25.98-.064.98-.566v-4.79a.655.655%200%200%200-.644-.654zm-.663%201.785v2.528L20.112%2012z%22%2F%3E%3C%2Fsvg%3E)
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
